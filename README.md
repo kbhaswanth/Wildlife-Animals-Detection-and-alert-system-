@@ -58,9 +58,8 @@ wildlife-detection-project/
 │── faster_rcnn.ipynb
 ├── hybrid_model.ipynb
 │
-├── webapp/
-│   ├── app.py
-│   ├── requirements.txt
+├── app.py
+├── requirements.txt
 │
 ├── dataset/
 │   └── README.md  (dataset links only)
